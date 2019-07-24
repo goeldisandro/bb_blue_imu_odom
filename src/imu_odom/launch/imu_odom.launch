@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="imu_odom" type="imu_odom_node" name="imu_odome_node" required="true" output="screen">
+  </node>
+</launch>
+
+
